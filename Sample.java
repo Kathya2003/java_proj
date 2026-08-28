@@ -1,6 +1,6 @@
 class Sample{
  public static void main(String[] args){
   System.out.println("Hello From Jenkins");
-  System.out.println("Executing poll SCM")
+  System.out.println("Executing poll SCM");
  }
 }
